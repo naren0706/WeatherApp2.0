@@ -42,7 +42,7 @@ function App() {
     
     <div className={(typeof weather.main != "undefined") ? ((weather.main.temp > 25) ? 'app warm' : 'app') : 'app'}>
       
-    
+    <div className='Box'>
       <main>
         <div className="search-box">
             <input 
@@ -75,8 +75,13 @@ function App() {
           </div>
         </div>
         ):('')}
+        
       </main>
       
+      <footer>
+        Created by <a href='https://github.com/naren0706'>Narenthra Kishore R S</a> 
+      </footer>
+      </div>
       </div>
 
   );
