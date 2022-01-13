@@ -79,7 +79,7 @@ function App() {
       </main>
       
       <footer>
-        Created by <a href='https://github.com/naren0706'>Narenthra Kishore R S</a> 
+        Created by <a href='https://github.com/naren0706'>Narenthra Kishore R S 💙🌎</a> 
       </footer>
       </div>
       </div>
